@@ -1,0 +1,59 @@
+[
+    {
+        "id": "14HN647073",
+        "name": "Dinesh sahu",
+        "Age": 22,
+        "Email": "dinesh@gmail.com",
+        "Contact": "45469877",
+        "FacultyId": "46CA5806",
+        "Gender": "MALE",
+        "Occupation": "student",
+        "UserName": "dinesh",
+        "Password": "dinesh"
+    },
+    {
+        "id": "06IM288874",
+        "name": "Piter",
+        "Age": 34,
+        "Email": "piter@gmail.com",
+        "Contact": "565644478",
+        "FacultyId": "34KP2104",
+        "Gender": "MALE",
+        "Occupation": "actor",
+        "UserName": "piter",
+        "Password": "piter"
+    },
+    {
+        "id": "60NU775934",
+        "name": "michael",
+        "Age": 25,
+        "Email": "micheal@gmail.com",
+        "Contact": "6548979879",
+        "FacultyId": "75JK4206",
+        "Gender": "MALE",
+        "Occupation": "actor",
+        "UserName": "micheal",
+        "Password": "micheal",
+        "Mark": {
+            "Math": 70,
+            "Chemistry": 75,
+            "Physics": 70,
+            "Science": 85,
+            "English": 95
+        },
+        "Total_Marks": 395,
+        "Grade": "C"
+    },
+    {
+        "id": "11IU880069",
+        "name": "sarah",
+        "Age": 28,
+        "Email": "sarah@gamil.com",
+        "Contact": "2355487889",
+        "FacultyId": "30BD4361",
+        "Gender": "FEMALE",
+        "Occupation": "Faculty",
+        "UserName": "sarah",
+        "Password": "sarah"
+    }
+]
