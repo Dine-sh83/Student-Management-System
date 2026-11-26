@@ -404,7 +404,7 @@ elif page == "View Students":
 
         st_ui.dataframe(
 
-            [{"ID": x.get("id"), "Name": x.get("name"), "Age": x.get("Age"),
+            [{"Name": x.get("name"), "Age": x.get("Age"),
 
               "Email": x.get("Email"), "Contact": x.get("Contact")} for x in stu.data],
 
